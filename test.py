@@ -1,1 +1,1 @@
-print("This is Test file of Jenkies")
+printf("This is Test file of Jenkies")
